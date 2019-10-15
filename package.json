@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meuschke/relay-testing-utils.git"
+    "url": "git+https://github.com/CJStroud/relay-testing-utils.git"
   },
   "keywords": [
     "relay",
@@ -21,9 +21,9 @@
   "author": "Toni Meuschke",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/meuschke/relay-testing-utils/issues"
+    "url": "https://github.com/CJStroud/relay-testing-utils/issues"
   },
-  "homepage": "https://github.com/meuschke/relay-testing-utils#readme",
+  "homepage": "https://github.com/CJStroud/relay-testing-utils#readme",
   "dependencies": {
     "react": "16.3.2"
   },
